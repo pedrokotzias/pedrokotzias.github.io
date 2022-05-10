@@ -1,0 +1,49 @@
+#name{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+}
+#des{
+    font-family: 'Courier New', Courier, monospace;
+}
+body{
+    background-color: rgb(251, 251, 248);
+}
+#nacionalidade{
+    font-style: italic;
+    color: rgb(67, 97, 238);
+}
+#vivendo{
+    font-style: italic;
+    color: rgb(72, 149, 239);
+}
+.l0{
+    color: rgb(247, 37, 133);
+    font-size: 20px;
+}
+.l1{
+    color: rgb(181, 23, 158);
+    font-size: 19px;                
+}
+.l2{
+    color: rgb(114, 9, 183);
+    font-size: 18px;                
+}
+.l3{
+    color: rgb(86, 11, 173);
+    font-size: 17px;                
+}
+.l4{
+    color: rgb(72, 12, 168);
+    font-size: 16px;                
+}
+.l5{
+    color: rgb(58, 12, 163);
+    font-size: 15px;                
+}
+.l6{
+    color: rgb(63, 55, 201);
+    font-size: 14px;                
+}
+ul{
+    line-height: 21px;
+}
