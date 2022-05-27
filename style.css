@@ -1,12 +1,36 @@
 #name{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: larger;
+    border: 4px solid pink;
+    text-align: center;
+    border-radius: 2px;
+}
+#foto{
+    float: left;
+    height: 320px;
+    padding:6px;
+    background-color: pink;
 }
 #des{
     font-family: 'Courier New', Courier, monospace;
+    height: 70px;
+    top: 10px;
+    right: 10px;
+}
+.press{
+    height: 300px;
+}
+div{
+    width: 1000px;
+    padding: 3px;
+}
+div:nth-child(2){
+    text-align: center;
+    list-style-position: inside;
 }
 body{
     background-color: rgb(251, 251, 248);
+    padding: 0.5%;
 }
 #nacionalidade{
     font-style: italic;
@@ -46,4 +70,7 @@ body{
 }
 ul{
     line-height: 21px;
+}
+ul.hab li:nth-child(odd){
+    background-color: pink;
 }
